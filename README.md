@@ -1,2 +1,2 @@
 # Architecture
-A bunch of project to describe architectural Samples,
+A bunch of projects to describe architectural petterns
